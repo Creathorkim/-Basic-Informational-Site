@@ -13,14 +13,14 @@ A simple Node.js routing server that serves HTML pages based on URL paths. Built
 - Tailwind CSS (via CDN)
 - HTML5
 
-## 📁 Pages
+##  Pages
 
 - `index.html`
 - `about.html`
 - `contact-me.html`
 - `404.html`
 
-## 💡 Why This Project?
+##  Why This Project?
 
 To practice:
 - Node.js core modules (`http`, `fs`)
